@@ -14,17 +14,16 @@ Citation
 
 **Please kindly cite the paper if this code is useful and helpful for your research.**
 
-@article{10400502,
-  author={Jamali, Ali and Roy, Swalpa Kumar and Li, Jonathan and Ghamisi, Pedram},
-  journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={Neighborhood Attention Makes the Encoder of ResUNet Stronger for Accurate Road Extraction}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/LGRS.2024.3354560}
-  
-  }
+      @article{10400502,
+              title={Neighborhood Attention Makes the Encoder of ResUNet Stronger for Accurate Road Extraction},
+              author={Jamali, Ali and Roy, Swalpa Kumar and Li, Jonathan and Ghamisi, Pedram},
+              journal={IEEE Geoscience and Remote Sensing Letters}, 
+              year={2024},
+              volume={},
+              number={},
+              pages={1-1},
+              doi={10.1109/LGRS.2024.3354560}
+              }
 
 
 
